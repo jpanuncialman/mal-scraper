@@ -1,0 +1,17 @@
+{
+  "name": "mal-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes MAL for Anime Bot",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/jpanuncialman/mal-scraper.git",
+  "keywords": [
+    "mal",
+    "anime",
+    "scraper"
+  ],
+  "author": "Joe Panuncialman",
+  "license": "ISC"
+}
